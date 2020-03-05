@@ -1,0 +1,2 @@
+# ternarynet
+Ternary neural networks
