@@ -1,2 +1,2 @@
 # ternarynet
-Ternary neural networks
+Ternary neural networks, for tensorflow v2
